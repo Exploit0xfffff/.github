@@ -2,7 +2,7 @@
 
 Exploit0xfffff: GitHub Repository Description
 
-- Exploit0xfffff is a GitHub repository maintained by the security researcher "0xfffff" and serves as a comprehensive collection of exploits and proof-of-concept code.
+- Exploit0xfffff is a GitHub repository maintained by the security researchers "0xfffff" and serves as a comprehensive collection of exploits and proof-of-concept code.
 - The repository focuses on vulnerabilities across various systems and is intended for educational and research purposes.
 - Each exploit within the repository is accompanied by a detailed write-up, providing a comprehensive understanding of the vulnerability and how the exploit functions.
 - The write-ups offer step-by-step instructions on reproducing the exploits and include guidance on mitigating the identified vulnerabilities.
